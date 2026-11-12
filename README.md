@@ -1,16 +1,3 @@
-TODO: Document the Alpha Vantage Intraday premium-endpoint limitation, how it was diagnosed, and the resulting application behavior.
-
-Selecting Intraday gives the ollowing response
-Unable to retrieve stock data. Check the symbol or API response 
-
-The API gave a message:
-Thank you for using Alpha Vantage! This is a premium endpoint. You may subscribe to any of the premium plans at https://www.alphavantage.co/premium/ to instantly unlock all premium endpoints
-127.0.0.1 - - [09/Nov/2026 21:36:07] "POST / HTTP/1.1" 200 -
-
-Intraday data requires a premium Alpha Vantage subscription. Please select Daily, Weekly, or Monthly data.
-
-
-
 # Stock Data Visualization Web Application
 
 ## Overview
