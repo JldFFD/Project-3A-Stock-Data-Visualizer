@@ -1,0 +1,15 @@
+# Environment variables and API keys
+.env
+
+# Pythons virtual environment file
+.venv/
+
+# Python cache files
+__pycache__/
+*.pyc
+
+# VS Code workspace settings file
+.vscode/
+
+# Original backup script to start with
+JK-5.py
